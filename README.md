@@ -6,7 +6,7 @@ Call the constructor of `DirectX9Overlay` in your main function with the window 
 
 # Example
 <p align="center">
-  [Example for CSGO](DirectX9Overlay/example/dllmain.cpp)
+  <a href="https://github.com/maorgershman/DirectX9Overlay/blob/main/DirectX9Overlay/example/dllmain.cpp"/>
   <br><br>
-  ![Screenshot](DirectX9Overlay/example/screenshot.png)
+  <img alt="Screenshot" src="https://github.com/maorgershman/DirectX9Overlay/blob/main/DirectX9Overlay/example/screenshot.png"/>
 </p>
