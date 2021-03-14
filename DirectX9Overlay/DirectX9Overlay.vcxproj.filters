@@ -18,17 +18,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="trampoline_hook.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="directx9_overlay.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="directx9_overlay.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="example\dllmain.cpp">
       <Filter>Source Files\example</Filter>
     </ClCompile>

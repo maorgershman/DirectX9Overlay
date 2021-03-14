@@ -150,10 +150,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="directx9_overlay.hpp" />
-    <ClInclude Include="trampoline_hook.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="directx9_overlay.cpp" />
     <ClCompile Include="example\dllmain.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
